@@ -4,17 +4,17 @@ Last updated: April 14, 2026
 
 Thank you for using **Simple Signboard**.
 
-This Privacy Policy explains how the Signboard mobile application (the “App”) handles information when you use it.
+This Privacy Policy explains how the Simple Signboard mobile application (the “App”) handles information when you use it.
 
 ## 1. Overview
 
-Signboard is a simple mobile application designed to display text or images on the screen for meeting guests, for example in airports, stations, hotels, or other public places.
+Simple Signboard is a simple mobile application designed to display text or images on the screen for meeting guests, for example in airports, stations, hotels, or other public places.
 
 The App is designed to work **offline** and does **not require user registration** to use its main features.
 
 ## 2. Information We Collect
 
-Signboard is designed to collect as little information as possible.
+Simple Signboard is designed to collect as little information as possible.
 
 ### Information stored locally on your device
 The App may store the following information **only on your device**:
@@ -31,11 +31,11 @@ This information is used only to make the App work properly and improve your exp
 
 If you choose the image mode, the App may request access to photos or files on your device so you can select an image.
 
-Signboard does **not upload, transmit, or sell** your images. Selected images are used only for display inside the App, unless you explicitly share content using your device’s built in sharing features.
+Simple Signboard does **not upload, transmit, or sell** your images. Selected images are used only for display inside the App, unless you explicitly share content using your device’s built in sharing features.
 
 ## 4. Internet and Offline Use
 
-The main features of Signboard work **without an internet connection**.
+The main features of Simple Signboard work **without an internet connection**.
 
 The App does not require an online account and does not depend on a backend server for its core functionality.
 
@@ -64,7 +64,7 @@ These services may be provided by your mobile operating system, device manufactu
 
 ## 7. Personal Data
 
-Signboard is not intended to collect sensitive personal data.
+Simple Signboard is not intended to collect sensitive personal data.
 
 The App does not require you to create an account, provide your name, email address, phone number, or payment information in order to use its basic features.
 
@@ -72,7 +72,7 @@ If you voluntarily contact us, any information you provide in that communication
 
 ## 8. Children’s Privacy
 
-Signboard is not directed specifically to children under the age required by applicable law.
+Simple Signboard is not directed specifically to children under the age required by applicable law.
 
 We do not knowingly collect personal information from children through the App.
 
@@ -96,7 +96,7 @@ Locally stored settings remain on your device until:
 
 Depending on your country or region, you may have rights related to your personal data under applicable law.
 
-Because Signboard generally does not collect personal data on its own servers, many of these rights may be exercised by managing the App directly on your device, including by deleting stored app data or uninstalling the App.
+Because Simple Signboard generally does not collect personal data on its own servers, many of these rights may be exercised by managing the App directly on your device, including by deleting stored app data or uninstalling the App.
 
 ## 12. External Links
 
