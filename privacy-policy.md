@@ -1,5 +1,7 @@
 # Privacy Policy for Simple Signboard
 
+Last updated: April 14, 2026
+
 Thank you for using **Simple Signboard**.
 
 This Privacy Policy explains how the Signboard mobile application (the “App”) handles information when you use it.
