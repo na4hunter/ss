@@ -120,7 +120,3 @@ Any updates will be reflected by changing the “Last Updated” date at the top
 If you have any questions about this Privacy Policy, you can contact us at:
 
 **Email:** argpromt@gmail.com
-
----
-
-If you publish this Privacy Policy in the App Store or Google Play, replace the contact email placeholder with your real support email.
